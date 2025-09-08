@@ -21,7 +21,7 @@ For a full list of mission parameters, refer to the operational guide below.
 
 ### **OPERATIONAL GUIDE**
 
-The `data_processor.sh` binary is executed from your terminal.
+The `data_processor.sh` is executed from your terminal.
 
 ```
 # Display the full mission parameters (help menu)
